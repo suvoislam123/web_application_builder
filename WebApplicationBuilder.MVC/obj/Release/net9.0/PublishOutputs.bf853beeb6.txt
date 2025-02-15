@@ -1,0 +1,7 @@
+C:\Users\SHUVO\Desktop\WebApplicationBuilder\WebApplicationBuilder.MVC\obj\Release\net9.0\PubTmp\Out\WebApplicationBuilder.MVC.exe
+C:\Users\SHUVO\Desktop\WebApplicationBuilder\WebApplicationBuilder.MVC\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\SHUVO\Desktop\WebApplicationBuilder\WebApplicationBuilder.MVC\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\SHUVO\Desktop\WebApplicationBuilder\WebApplicationBuilder.MVC\obj\Release\net9.0\PubTmp\Out\WebApplicationBuilder.MVC.dll
+C:\Users\SHUVO\Desktop\WebApplicationBuilder\WebApplicationBuilder.MVC\obj\Release\net9.0\PubTmp\Out\WebApplicationBuilder.MVC.deps.json
+C:\Users\SHUVO\Desktop\WebApplicationBuilder\WebApplicationBuilder.MVC\obj\Release\net9.0\PubTmp\Out\WebApplicationBuilder.MVC.runtimeconfig.json
+C:\Users\SHUVO\Desktop\WebApplicationBuilder\WebApplicationBuilder.MVC\obj\Release\net9.0\PubTmp\Out\WebApplicationBuilder.MVC.pdb

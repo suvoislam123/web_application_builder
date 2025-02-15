@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "ES6",
+      "moduleResolution": "Node",
+      "strict": false,
+      "outDir": "./wwwroot/js", 
+      "rootDir": "./Scripts/ts",
+      "sourceMap": true,
+      "strictNullChecks": false, 
+      "noImplicitAny": false,
+      "lib": ["es2017", "dom"], 
+    },
+    "include": ["Scripts/ts/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
+  

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|c:\\users\\shuvo\\desktop\\webapplicationbuilder\\webapplicationbuilder.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|solutionrelative:webapplicationbuilder.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|c:\\users\\shuvo\\desktop\\webapplicationbuilder\\webapplicationbuilder.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|solutionrelative:webapplicationbuilder.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|c:\\users\\shuvo\\desktop\\webapplicationbuilder\\webapplicationbuilder.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|solutionrelative:webapplicationbuilder.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|c:\\users\\shuvo\\desktop\\webapplicationbuilder\\webapplicationbuilder.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|solutionrelative:webapplicationbuilder.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|c:\\users\\shuvo\\desktop\\webapplicationbuilder\\webapplicationbuilder.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|solutionrelative:webapplicationbuilder.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|c:\\users\\shuvo\\desktop\\webapplicationbuilder\\webapplicationbuilder.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941B67BA-E1C6-4335-B25B-3D7133DB6907}|WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj|solutionrelative:webapplicationbuilder.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationBuilder.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationBuilder.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:56:07.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationBuilder.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationBuilder.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T10:56:03.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationBuilder.MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplicationBuilder.MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T07:17:26.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationBuilder.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplicationBuilder.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T07:17:25.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationBuilder.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationBuilder.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T07:17:21.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationBuilder.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\Program.cs",
+              "RelativeToolTip": "WebApplicationBuilder.MVC\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:15:10.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

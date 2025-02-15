@@ -1,0 +1,1 @@
+export type InputAttributes = Partial<Record<string, string | number | boolean>>;
