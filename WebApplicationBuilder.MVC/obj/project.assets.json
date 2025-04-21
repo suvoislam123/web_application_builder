@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\SHUVO\\Desktop\\web_application_builder\\WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj",
       "projectName": "WebApplicationBuilder.MVC",
-      "projectPath": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj",
+      "projectPath": "C:\\Users\\SHUVO\\Desktop\\web_application_builder\\WebApplicationBuilder.MVC\\WebApplicationBuilder.MVC.csproj",
       "packagesPath": "C:\\Users\\SHUVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHUVO\\Desktop\\WebApplicationBuilder\\WebApplicationBuilder.MVC\\obj\\",
+      "outputPath": "C:\\Users\\SHUVO\\Desktop\\web_application_builder\\WebApplicationBuilder.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
